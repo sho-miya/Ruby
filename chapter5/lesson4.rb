@@ -1,0 +1,2 @@
+name = "sho"
+puts name
